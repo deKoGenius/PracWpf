@@ -7,4 +7,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="KakaoTalk_20220921_125846908_01.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\kakaotalk_20220921_125846908_01.jpg" />
+  </ItemGroup>
+
 </Project>
